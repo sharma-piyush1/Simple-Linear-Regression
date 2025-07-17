@@ -52,3 +52,15 @@ pandas
 matplotlib
 scikit-learn
 
+
+## 📚 Learning Outcome
+By the end of this notebook, you’ll understand:
+
+How to fit a simple linear regression model.
+
+How to interpret the regression line.
+
+How to evaluate model predictions visually.
+
+
+
