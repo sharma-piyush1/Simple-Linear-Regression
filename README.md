@@ -41,8 +41,6 @@ The notebook includes:
    pip install -r requirements.txt
 
 
----
-
 ### ✅**`requirements.txt`**
 If you want to include a list of required libraries:
 
@@ -53,7 +51,7 @@ matplotlib
 scikit-learn
 
 
-## 📚 Learning Outcome
+### 📚 **Learning Outcome**
 By the end of this notebook, you’ll understand:
 
 How to fit a simple linear regression model.
