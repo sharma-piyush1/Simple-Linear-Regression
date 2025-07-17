@@ -39,3 +39,16 @@ The notebook includes:
 2. Install the required packages:
    ```bash
    pip install -r requirements.txt
+
+
+---
+
+### ✅**`requirements.txt`**
+If you want to include a list of required libraries:
+
+```txt
+numpy
+pandas
+matplotlib
+scikit-learn
+
